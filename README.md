@@ -6,4 +6,4 @@
 
 #### GUI of the application is as follows:
 
-![Representation](https://github.com/rajivchoudhury/fashion-recommender/gui_image.png)
+![Representation](./gui_image.png)
