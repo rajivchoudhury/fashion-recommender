@@ -1,2 +1,9 @@
-# fashion-recommender
-Fashion Recommendation Model which uses ResNet-50 Neural Network to recommend a fashion from a given image.
+# Fashion Recommender System
+
+#### The recommendation system uses ResNet-50.
+
+#### To run this app you need to have tensorflow, streamlit.
+
+#### GUI of the application is as follows:
+
+![Representation](https://github.com/rajivchoudhury/fashion-recommender/gui_image.png)
