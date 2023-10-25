@@ -4,7 +4,7 @@
 
 #### To run this app you need to have tensorflow, streamlit.
 
-- the dataset for the application is <a href="https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset">here</a>
+#### The dataset for the application is <a href="https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset">here</a>
 
 #### GUI of the application is as follows:
 
