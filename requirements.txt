@@ -1,0 +1,7 @@
+tensorflow
+keras
+numpy
+tqdm
+streamlit
+PIL
+scikit-learn
